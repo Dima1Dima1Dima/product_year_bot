@@ -1,0 +1,61 @@
+{
+  "users_data": {
+    "5724269563": {
+      "tasks": [
+        {
+          "name": "Стакан воды утром",
+          "count": 1,
+          "type": "normal"
+        },
+        {
+          "name": "Учеба",
+          "count": 1,
+          "type": "normal"
+        },
+        {
+          "name": "Работа",
+          "count": 1,
+          "type": "normal"
+        },
+        {
+          "name": "PyCharm",
+          "count": 1,
+          "type": "normal"
+        },
+        {
+          "name": "C++",
+          "count": 1,
+          "type": "normal"
+        },
+        {
+          "name": "Подтягивания",
+          "count": 7,
+          "type": "multiple"
+        },
+        {
+          "name": "Отжимания",
+          "count": 30,
+          "type": "multiple"
+        },
+        {
+          "name": "Чтение (стр)",
+          "count": 15,
+          "type": "multiple"
+        },
+        {
+          "name": "Английских слов",
+          "count": 5,
+          "type": "multiple"
+        }
+      ],
+      "completed": [],
+      "daily_completed_count": {},
+      "total_points": 0,
+      "daily_points": 0,
+      "daily_earned_points": 0
+    }
+  },
+  "default_tasks": [],
+  "last_reset": "2026-01-15",
+  "group_id": -5216745239
+}
