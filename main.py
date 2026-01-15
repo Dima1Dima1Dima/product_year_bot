@@ -1,11 +1,11 @@
 import os
 import json
+import schedule
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 from datetime import datetime, timedelta
 import threading
 import time
-import schedule
 
 API_TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '7462876426:AAEk4v1_se0UcnAzVB3Rltiou9FkZJN1WpQ')
 bot = telebot.TeleBot(API_TOKEN)
